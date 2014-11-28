@@ -7,7 +7,7 @@
           ['Facultad',      10],
           ['Series de TV',     1],
           ['Vicio',  1],
-          ['Sleep',    4],
+          ['Dormir',    4],
           ['PC',10]
         ]);
 
